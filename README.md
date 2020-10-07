@@ -1,10 +1,10 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This is GIT project, which we are using as Sample project
 
 ## Introduction 
-This is starter web project
+A lot of lectures are already submitted 
 
 ## Purpose
 
-Sample website with plenty of files for demos
+This is important course in DevOps
