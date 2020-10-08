@@ -9,5 +9,8 @@ A lot of lectures are already submitted
 
 This is important course in DevOps
 
+## Contribution 
+Fork the rep and raise pull request for review
+
 ## GIT comparision 
 Adding GIT comparison selection
