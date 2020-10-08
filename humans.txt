@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- Dinesh shrestha  -- <twitter>
+    Dinesh Shrestha 
+    dnshshrestha@gmail.com
+    Developer
 
 # THANKS
 
