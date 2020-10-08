@@ -5,7 +5,7 @@
 
     Dinesh Shrestha 
     dnshshrestha@gmail.com
-    Developer
+    Developer, DevOps
 
 # THANKS
 
@@ -14,4 +14,5 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr, Angular, React
+    jQuery, Modernizr, Angular, React,
+    Docker, Java programming
