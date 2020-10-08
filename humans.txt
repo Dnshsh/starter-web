@@ -5,6 +5,7 @@ Hi I am modifying the the file rebase
 
 # The humans responsible & technology colophon 
 Hi Going to insert conflicts in my features branch
+Doing some changes in local
 
 
 # TEAM
