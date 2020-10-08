@@ -3,7 +3,7 @@
 This is GIT project, which we are using as Sample project
 
 ## Introduction 
-A lot of lectures are already submitted . Adding rebase lectures 
+A lot of lectures are already submitted . Adding rebase lectures. We have done so much work together
 
 ## Purpose
 
