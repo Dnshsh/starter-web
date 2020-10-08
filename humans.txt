@@ -23,5 +23,5 @@ Doing some changes in local
 
     HTML5, CSS3
 
-    jQuery, Modernizr, Angular, Machine Learning ,AWS
+    jQuery, Modernizr, Angular, Machine Learning ,AWS solution architect developer
 
