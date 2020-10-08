@@ -14,3 +14,6 @@ Fork the rep and raise pull request for review
 
 ## GIT comparision 
 Adding GIT comparison selection
+
+Adding new lecture of stash
+
